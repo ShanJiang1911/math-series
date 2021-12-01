@@ -1,0 +1,1 @@
+PR link to this lab: https://github.com/ShanJiang1911/math-series/pull/1
